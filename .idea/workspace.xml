@@ -4,13 +4,27 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d1f4050-8ee0-441b-9e2e-f0c28acd7438" name="Changes" comment="" />
+    <list default="true" id="7d1f4050-8ee0-441b-9e2e-f0c28acd7438" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/internal/app/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/internal/app/logging.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/internal/app/module_dev.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/internal/app/module_prod.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/internal/pkg/api/error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/internal/pkg/api/module.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/internal/pkg/api/tribute.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/internal/pkg/tribute/module.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/cmd/ravens-club/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/backend/cmd/ravens-club/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/backend/go.mod" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -26,9 +40,10 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/kheritage/Dev/ravens-club/backend",
+    "last_opened_file_path": "C:/Users/kheritage/Dev/ravens-club",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
